@@ -45,3 +45,5 @@ python main.py
 ## Author
 Made by Lavanya
 
+<img width="526" height="347" alt="image" src="https://github.com/user-attachments/assets/32fde310-eac1-4041-afd4-1650bc7300c1" />
+
