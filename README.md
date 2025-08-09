@@ -13,10 +13,10 @@ git clone https://github.com/lavsharma01/web-driven-ai-automation.git
 cd web-driven-ai-automation
 pip install -r requirements.txt
 python main.py
-- Save karne ke liye `Ctrl + O`, phir Enter  
-- Editor se nikalne ke liye `Ctrl + X`  
+- To save : `Ctrl + O`, then Enter  
+- To remove from the editor : `Ctrl + X`  
 
-Phir:  
+then:  
 ```bash
 git add README.md
 git commit -m "add README file"
@@ -43,5 +43,5 @@ python main.py
 ```
 
 ## Author
-Made with ❤️ by Lavanya
+Made by Lavanya
 
